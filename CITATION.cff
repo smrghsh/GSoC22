@@ -1,10 +1,10 @@
-    # Citation File Format (CFF)
-    citation-type: software
-    authors:
-      - family-name: "Ghosh"
-        given-name: "Samir"
-        email: "mail@samir.tech"
-    title: "Work summary for Google Summer of Code '22"
-    version: "1.0.0"
-    year: 2022
-    url: "https://github.com/smrghsh/GSoC22
+# Citation File Format (CFF)
+citation-type: software
+authors:
+  - family-name: "Ghosh"
+    given-name: "Samir"
+    email: "mail@samir.tech"
+title: "Work summary for Google Summer of Code '22"
+version: "1.0.0"
+year: 2022
+url: "https://github.com/smrghsh/GSoC22
